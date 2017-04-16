@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMail.Web", "SendMail\SendMail.Web.csproj", "{83D74942-0B64-477E-8932-7190F8E1DB92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMail.DAL", "SendMail.DAL\SendMail.DAL.csproj", "{73B55138-0BDF-4408-A407-1749411C0051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMail.BLL", "SendMail.BLL\SendMail.BLL.csproj", "{9507A7F1-3F5F-425D-9D44-0B0F5E9AAAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMail.Model", "SendMail.Model\SendMail.Model.csproj", "{D38ED952-7DCD-4182-909C-BBE5EE714BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D74942-0B64-477E-8932-7190F8E1DB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D74942-0B64-477E-8932-7190F8E1DB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D74942-0B64-477E-8932-7190F8E1DB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D74942-0B64-477E-8932-7190F8E1DB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B55138-0BDF-4408-A407-1749411C0051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B55138-0BDF-4408-A407-1749411C0051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B55138-0BDF-4408-A407-1749411C0051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B55138-0BDF-4408-A407-1749411C0051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9507A7F1-3F5F-425D-9D44-0B0F5E9AAAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9507A7F1-3F5F-425D-9D44-0B0F5E9AAAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9507A7F1-3F5F-425D-9D44-0B0F5E9AAAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9507A7F1-3F5F-425D-9D44-0B0F5E9AAAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38ED952-7DCD-4182-909C-BBE5EE714BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38ED952-7DCD-4182-909C-BBE5EE714BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38ED952-7DCD-4182-909C-BBE5EE714BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38ED952-7DCD-4182-909C-BBE5EE714BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
