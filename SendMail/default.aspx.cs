@@ -39,6 +39,7 @@ namespace SendMail.Web
                 ImageUuid = Guid.NewGuid().ToString()
             });
 
+            //123
             string strTo = this.txtTo.Text;
 
             StringBuilder strBody = new StringBuilder();
