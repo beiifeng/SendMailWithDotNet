@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMail.Web", "SendMail\SendMail.Web.csproj", "{83D74942-0B64-477E-8932-7190F8E1DB92}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMail.DAL", "SendMail.DAL\SendMail.DAL.csproj", "{73B55138-0BDF-4408-A407-1749411C0051}"
